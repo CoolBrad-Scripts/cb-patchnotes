@@ -7,6 +7,20 @@
             ],
             "1.0.1": [
                 "Added new recycling items"
+            ],
+            "1.0.2": [
+                "Added new recycling items"
+            ]
+        }
+    },
+    "cb-hunting": {
+        "repo": "CoolBrad-Scripts/cb-hunting",
+        "versions": {
+            "1.0.5": [
+                "Fixed an issue with the data being passed to the GetPedCauseOfDeath native"
+            ],
+            "2.0.0": [
+                "Added support for Community Bridge"
             ]
         }
     }
