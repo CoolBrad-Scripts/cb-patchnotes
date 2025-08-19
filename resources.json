@@ -1,0 +1,13 @@
+{
+    "cb-recycling": {
+        "repo": "CoolBrad-Scripts/cb-recycling",
+        "versions": {
+            "1.0.0": [
+                "Initial Release"
+            ],
+            "1.0.1": [
+                "Added new recycling items"
+            ]
+        }
+    }
+}
