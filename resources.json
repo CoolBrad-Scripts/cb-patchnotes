@@ -41,7 +41,8 @@
         "versions": {
             "1.0.4": [
                 "Added a configurable Harvest Cooldown to Weed Plants",
-                "Added community_bridge dependency"
+                "Added community_bridge dependency",
+                "Added automatic version check"
             ]
         }
     }
