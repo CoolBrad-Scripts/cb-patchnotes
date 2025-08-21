@@ -33,7 +33,8 @@
                 "Add automatic version check"
             ],
             "2.2.3": [
-                "Added ability to configure maximum loyalty in gang zones"
+                "Added ability to configure maximum loyalty in gang zones",
+                "Added support for Radial Menu"
             ]
         }
     },
