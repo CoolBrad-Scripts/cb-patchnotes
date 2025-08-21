@@ -31,6 +31,17 @@
                 "Added new config files for easier customization",
                 "Added an event to start Corner Selling",
                 "Add automatic version check"
+            ],
+            "2.2.3": [
+                "Added ability to configure maximum loyalty in gang zones"
+            ]
+        }
+    },
+    "cb-whitewidow": {
+        "versions": {
+            "1.0.4": [
+                "Added a configurable Harvest Cooldown to Weed Plants",
+                "Added community_bridge dependency"
             ]
         }
     }
