@@ -13,14 +13,24 @@
             ]
         }
     },
-    "cb-hunting": {
-        "repo": "CoolBrad-Scripts/cb-hunting",
+    "cb-gangsystem": {
         "versions": {
-            "1.0.5": [
-                "Fixed an issue with the data being passed to the GetPedCauseOfDeath native"
+            "2.2.0": [
+                "General code improvements",
+                "Optimization",
+                "Add Tasks feature",
+                "Remove many unnecessary instances of GetPlayer() and GetPlayers()"
             ],
-            "2.0.0": [
-                "Added support for Community Bridge"
+            "2.2.1": [
+                "Fixed an issue that prevented players from being able to exit Gang Hideouts"
+            ],
+            "2.2.2": [
+                "Add Target support for Corner Selling",
+                "Add metadata support when receiving items from Gang Missions",
+                "Remove unnecessary print statements",
+                "Added new config files for easier customization",
+                "Added an event to start Corner Selling",
+                "Add automatic version check"
             ]
         }
     }
