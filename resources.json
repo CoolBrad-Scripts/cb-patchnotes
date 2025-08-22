@@ -35,6 +35,11 @@
             "2.2.3": [
                 "Added ability to configure maximum loyalty in gang zones",
                 "Added support for Radial Menu"
+            ],
+            "2.2.4": [
+                "Changed instances of GetHashKey to joaat",
+                "Better drug selling methods",
+                "Moved Drug Sale Debug to server/open.lua"
             ]
         }
     },
