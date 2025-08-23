@@ -40,6 +40,9 @@
                 "Changed instances of GetHashKey to joaat",
                 "Better drug selling methods",
                 "Moved Drug Sale Debug to server/open.lua"
+            ],
+            "2.2.5": [
+                "Fixed an issue that prevented protection money from being collected. You will need to DROP your gang_protections table, before you install this update"
             ]
         }
     },
