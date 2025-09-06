@@ -43,6 +43,12 @@
             ],
             "2.2.5": [
                 "Fixed an issue that prevented protection money from being collected. You will need to DROP your gang_protections table, before you install this update"
+            ],
+            "2.3.0": [
+                "Fixed a bug with the protection system",
+                "Removed some unnecessary print statements",
+                "Changed the structure of the gang zones to use vec2",
+                "Version bump"
             ]
         }
     },
