@@ -49,6 +49,10 @@
                 "Removed some unnecessary print statements",
                 "Changed the structure of the gang zones to use vec2",
                 "Version bump"
+            ],
+            "2.3.1": [
+                "Bug fixes and SQL improvements",
+                "Added weapon_pistol to the list of banned weapons"
             ]
         }
     },
