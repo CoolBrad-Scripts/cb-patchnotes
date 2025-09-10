@@ -53,6 +53,10 @@
             "2.3.1": [
                 "Bug fixes and SQL improvements",
                 "Added weapon_pistol to the list of banned weapons"
+            ],
+            "2.3.2": [
+                "Fixed an issue that allowed gangs to collect proteciton money in zones they did not control",
+                "Reworked simple.sql file"
             ]
         }
     },
