@@ -59,7 +59,7 @@
                 "Reworked simple.sql file"
             ],
             "2.3.3": [
-                "Fixed an issue with players being able to collect protection money multiple times if it is set to use Dirty Cash",
+                "Fixed an issue with players being able to collect protection money multiple times if it is set to use Dirty Cash"
             ]
         }
     },
