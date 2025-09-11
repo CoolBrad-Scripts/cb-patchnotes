@@ -57,6 +57,9 @@
             "2.3.2": [
                 "Fixed an issue that allowed gangs to collect proteciton money in zones they did not control",
                 "Reworked simple.sql file"
+            ],
+            "2.3.3": [
+                "Fixed an issue with players being able to collect protection money multiple times if it is set to use Dirty Cash",
             ]
         }
     },
