@@ -10,6 +10,9 @@
             ],
             "1.0.2": [
                 "Added new recycling items"
+            ],
+            "1.0.3": [
+                "Better code security / Exploit fixes"
             ]
         }
     },
