@@ -63,6 +63,18 @@
             ],
             "2.3.3": [
                 "Fixed an issue with players being able to collect protection money multiple times if it is set to use Dirty Cash"
+            ],
+            "2.3.4": [
+                "Added preferences for Drugs",
+                "Added the ability to transfer gang ownership to co-leadres only",
+                "Added a configurable debug system for better error handling",
+                "Code optimizations and improvements",
+                "Added a configurable script delay for larger servers",
+                "Clean up configuration files",
+                "Bridge.Framework.GetPlayerIdentifier -> GetPlayerIdentifier()",
+                "Refactored code related to MaxMissions",
+                "Removed some unnecessary print statements",
+                "Added a check for bad configurations"
             ]
         }
     },
