@@ -75,6 +75,10 @@
                 "Refactored code related to MaxMissions",
                 "Removed some unnecessary print statements",
                 "Added a check for bad configurations"
+            ],
+            "2.3.5": [
+                "Increased the maximum loyalty amount to 999999",
+                "Fixed an issue with a notification that was being sent to all players when a task was accepted"
             ]
         }
     },
