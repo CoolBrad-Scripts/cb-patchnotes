@@ -79,6 +79,9 @@
             "2.3.5": [
                 "Increased the maximum loyalty amount to 999999",
                 "Fixed an issue with a notification that was being sent to all players when a task was accepted"
+            ],
+            "2.3.6": [
+                "Added a maximum protection amount to the gang zones"
             ]
         }
     },
