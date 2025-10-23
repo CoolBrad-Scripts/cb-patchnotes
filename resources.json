@@ -92,6 +92,10 @@
                 "Exposed the GetPlayerGangTag export",
                 "More locales - and more coming soon!",
                 "Refactored all instances of Dirty Cash so it is now a lot more configurable"
+            ],
+            "2.4.1": [
+                "Refactored the Split function",
+                "Fixed a bug with the Gang Tablet on QB-Core servers"
             ]
         }
     },
