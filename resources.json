@@ -82,6 +82,16 @@
             ],
             "2.3.6": [
                 "Added a maximum protection amount to the gang zones"
+            ],
+            "2.4.0": [
+                "Added some comments so users can better understand the script",
+                "LOTS of code improvements and refactoring",
+                "Added a Gang Tablet - a much requested feature",
+                "Exposed the GetGangColor function to the client",
+                "Added a cool animation for opening the Gang Tablet",
+                "Exposed the GetPlayerGangTag export",
+                "More locales - and more coming soon!",
+                "Refactored all instances of Dirty Cash so it is now a lot more configurable"
             ]
         }
     },
