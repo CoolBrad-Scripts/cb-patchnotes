@@ -96,6 +96,14 @@
             "2.4.1": [
                 "Refactored the Split function",
                 "Fixed a bug with the Gang Tablet on QB-Core servers"
+            ],
+            "2.4.2": [
+                "Ensure that cop count only checks police officers who are On Duty",
+                "By request, added a configurable option to allow Gang Members to enter Hideouts in any controlled turf, not just their Home Turf",
+                "Added a configurable option to allow gang members to only receive loyalty when they are present in a turf they actively control, instead of holding a presence in ANY turf",
+                "Blacklist weapons for shooting in turfs (Players won't lose loyalty if they shoot a blacklisted weapon)",
+                "Added some helpful comments to the configuration files",
+                "Refactored and open sourced the event for starting Corner Selling (Helpful for radial menus)"
             ]
         }
     },
