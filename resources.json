@@ -104,6 +104,15 @@
                 "Blacklist weapons for shooting in turfs (Players won't lose loyalty if they shoot a blacklisted weapon)",
                 "Added some helpful comments to the configuration files",
                 "Refactored and open sourced the event for starting Corner Selling (Helpful for radial menus)"
+            ],
+            "2.4.3": [
+                "Added configurable weights to the Custom Ped Pool for Drug Sales",
+                "Fixed an issue with Drug Sales that potentially allowed players to sell to the same ped twice under very specific circumstances",
+                "Added configurable police call models for Drug Selling",
+                "Added configurable blacklisted models for Drug Selling",
+                "Added a new Police Alert for Drug Sale setups (when players sell to these peds the police will be called every time)",
+                "Fixed a bug with the Police Alert for drug sales (this is critical - please update)",
+                "Changed a few instances of RequestModel to lib.requestModel"
             ]
         }
     },
