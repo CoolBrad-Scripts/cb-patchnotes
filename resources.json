@@ -113,6 +113,19 @@
                 "Added a new Police Alert for Drug Sale setups (when players sell to these peds the police will be called every time)",
                 "Fixed a bug with the Police Alert for drug sales (this is critical - please update)",
                 "Changed a few instances of RequestModel to lib.requestModel"
+            ],
+            "2.5.0": [
+                "Redesigned Admin Check to allow for license and license2",
+                "Option to use community_bridge for Admin Check",
+                "Now using community_bridge for more framework stuff",
+                "Beginning of ESX support",
+                "Refactored some server-side events",
+                "Removed some unused NUI stuff",
+                "Updated the Discord link in the top of config.lua",
+                "Added some comments in the configuration files for better understanding",
+                "Fixed an error with the Gang Tablet and RequestModel",
+                "Removed some unused NUI stuff",
+                "Begin working on War system"
             ]
         }
     },
