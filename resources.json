@@ -126,6 +126,14 @@
                 "Fixed an error with the Gang Tablet and RequestModel",
                 "Removed some unused NUI stuff",
                 "Begin working on War system"
+            ],
+            "2.5.1": [
+                "Continued support for ESX framework",
+                "Overhaul and redesign of pretty much the entire script",
+                "Add Config.ControlPercentage",
+                "Add customizable Gang Zones feature",
+                "Add ability for Staff created Gang Zones",
+                "And so much more! Thanks for supporting me! <3 Brad"
             ]
         }
     },
