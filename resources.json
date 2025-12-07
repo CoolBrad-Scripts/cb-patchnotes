@@ -134,6 +134,16 @@
                 "Add customizable Gang Zones feature",
                 "Add ability for Staff created Gang Zones",
                 "And so much more! Thanks for supporting me! <3 Brad"
+            ],
+            "2.5.2": [
+                "Continued support for ESX framework",
+                "Small bug fixes with the Zone Creation system",
+                "Removed debug stuff",
+                "Fixed an issue that was causing the UI to show when it wasn't supposed to be"
+            ],
+            "2.5.3": [
+                "Continued support for ESX framework",
+                "Bug fixes with the Gang Staff panel, specifically the Teleport page"
             ]
         }
     },
