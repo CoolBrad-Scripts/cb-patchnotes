@@ -144,6 +144,13 @@
             "2.5.3": [
                 "Continued support for ESX framework",
                 "Bug fixes with the Gang Staff panel, specifically the Teleport page"
+            ],
+            "2.5.4": [
+                "Added configurable War System",
+                "A few bug fixes",
+                "Code improvements and optimization",
+                "Added Config.DeleteOldData for deleting old wars and old transactions older than 30 days (configurable)",
+                "Added default gang zones for CustomGangZones users"
             ]
         }
     },
