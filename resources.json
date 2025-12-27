@@ -151,6 +151,11 @@
                 "Code improvements and optimization",
                 "Added Config.DeleteOldData for deleting old wars and old transactions older than 30 days (configurable)",
                 "Added default gang zones for CustomGangZones users"
+            ],
+            "2.5.5": [
+                "Fixed an issue that prevented the UI from displaying the correct member count for each gang",
+                "Added a configurable option to hide Gang Fund values in the Gang UI (Other gangs won't see how much money you have!)",
+                "Fixed a very important issue with the Gang Presence system looping every second instead of every minute (introduced in v2.5.4 - oops!)"
             ]
         }
     },
