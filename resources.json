@@ -160,6 +160,10 @@
             "2.5.6": [
                 "Fixed an issue with NUI Dashboard not showing when the number of Custom Gang Zones was exactly 0",
                 "Added lots of Debug Prints to the Add Member, Kick Member, and Demote Member server-side events"
+            ],
+            "2.5.7": [
+                "Fixed an issue with ESX and Adding / Removing members from the gang",
+                "Added Debug Prints to the Staff Dashboard",
             ]
         }
     },
