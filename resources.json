@@ -163,7 +163,7 @@
             ],
             "2.5.7": [
                 "Fixed an issue with ESX and Adding / Removing members from the gang",
-                "Added Debug Prints to the Staff Dashboard",
+                "Added Debug Prints to the Staff Dashboard"
             ]
         }
     },
