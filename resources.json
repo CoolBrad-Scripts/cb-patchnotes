@@ -156,6 +156,10 @@
                 "Fixed an issue that prevented the UI from displaying the correct member count for each gang",
                 "Added a configurable option to hide Gang Fund values in the Gang UI (Other gangs won't see how much money you have!)",
                 "Fixed a very important issue with the Gang Presence system looping every second instead of every minute (introduced in v2.5.4 - oops!)"
+            ],
+            "2.5.6": [
+                "Fixed an issue with NUI Dashboard not showing when the number of Custom Gang Zones was exactly 0",
+                "Added lots of Debug Prints to the Add Member, Kick Member, and Demote Member server-side events"
             ]
         }
     },
